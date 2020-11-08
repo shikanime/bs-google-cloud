@@ -1,0 +1,29 @@
+{
+  "name": "bs-google-cloud",
+  "version": "0.1.1",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikanime/bs-google-cloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shikanime/bs-google-cloud/issues"
+  },
+  "keywords": [
+    "ReScript",
+    "GoogleCloud"
+  ],
+  "author": {
+    "name": "Shikanime Deva",
+    "email": "deva.shikanime@protonmail.com",
+    "url": "https://github.com/shikanime"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^8.3.2"
+  }
+}
